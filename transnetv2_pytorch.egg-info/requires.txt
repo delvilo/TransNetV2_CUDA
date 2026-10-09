@@ -1,0 +1,13 @@
+ffmpeg-python
+numpy
+pandas
+pillow
+torch>=1.9.0
+tqdm
+
+[dev]
+pytest
+pytest-cov
+black
+flake8
+mypy
